@@ -2,7 +2,7 @@
 	"era": "diesel",
 	"name": "Dutch railways buffer",
 	"works": "If it's stupid but it works, it's not stupid",
-	"model": "immersiverailroading:models/rolling_stock/hand_car/bufferns/bufferns.obj",
+	"model": "immersiverailroading:models/rolling_stock/freight/buffer/buffer.obj",
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,

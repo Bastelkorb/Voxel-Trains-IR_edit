@@ -32,5 +32,5 @@ couplers =
 sounds =
 	horn = "sounds/ns/nssnghorn.ogg"
 	idle = "sounds/ns/sngaccelerate.ogg"
-	track_wheels = "sounds/sounds/drive.ogg"
+	track_wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/flirtpower.caml"

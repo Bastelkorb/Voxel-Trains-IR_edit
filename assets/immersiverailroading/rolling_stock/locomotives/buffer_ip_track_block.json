@@ -2,7 +2,7 @@
 	"era": "diesel",
 	"name": "Portuguese Railways Track Blocker",
 	"works": "If it's stupid but it works, it's not stupid",
-	"model": "immersiverailroading:models/rolling_stock/hand_car/ip_track_blocker/ip_track_blocker.obj",
+	"model": "immersiverailroading:models/rolling_stock/freight/ip_track_blocker/ip_track_blocker.obj",
 	"darken_model": "0",
 	"tex_variants": {
 		"Weathered": "dirty"

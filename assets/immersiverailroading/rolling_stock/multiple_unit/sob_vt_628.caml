@@ -1,0 +1,7 @@
+name = "SuedOstBayernBahn VT 628.4"
+consist:
+	stock = "sob_vt_628"
+	direction = "DEFAULT"
+consist:
+	stock = "sob_vs_928"
+	direction = "DEFAULT"

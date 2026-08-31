@@ -1,6 +1,6 @@
 {
   "name": "Voxel Wood Track Dirt",
-  "clack": true,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-wood-track-dirt/voxel-wood-track-dirt.obj"
   },

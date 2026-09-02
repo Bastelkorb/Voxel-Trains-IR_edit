@@ -1,5 +1,5 @@
 era = diesel
-name = "DB Regio Bnrdzf 477.0 « n-Wagen Karlsruher Kopf»"
+name = "DB Regio Bnrdzf 477.0 « n-Wagen Karlsruher Kopf »"
 works = "AW Hannover; AW Limburg; AW Neumünster"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -38,6 +38,13 @@ lights =
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
 
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/lights_off.anim"
+	mode = "play_both"
+	invert = true
+	
 
 animations:
 	control_group = "dfli"
